@@ -1,7 +1,0 @@
-﻿  Pointers2021.cpp
-c:\users\48605\source\repos\pointers2021\pointers2021\pointers2021.cpp(17): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
-c:\users\48605\source\repos\pointers2021\pointers2021\pointers2021.cpp(21): warning C4244: "return": konwersja z "double" do "int", możliwa utrata danych
-c:\users\48605\source\repos\pointers2021\pointers2021\pointers2021.cpp(37): warning C4101: "druga": lokalna zmienna, do której nie istnieje odwołanie
-c:\users\48605\source\repos\pointers2021\pointers2021\pointers2021.cpp(120): warning C4305: "=": obcięcie z "double" do "float"
-c:\users\48605\source\repos\pointers2021\pointers2021\pointers2021.cpp(126): warning C4305: "=": obcięcie z "double" do "float"
-  Pointers2021.vcxproj -> C:\Users\48605\Source\Repos\Pointers2021\Debug\Pointers2021.exe
